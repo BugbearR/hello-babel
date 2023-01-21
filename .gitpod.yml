@@ -1,4 +1,4 @@
 tasks:
-  - init: yarn install
+  - init: pnpm install
 image:
   file: .gitpod.Dockerfile
